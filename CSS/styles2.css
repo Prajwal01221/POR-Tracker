@@ -1,0 +1,93 @@
+.top-box {
+    background-color: black;
+    height: 118px;
+}
+
+body {
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0) 11.25%, rgba(255, 255, 255, 0) 11.26%, rgba(0, 0, 0, 0.3) 100%);
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    margin: 0px;
+    height: 100%;
+}
+
+.head {
+    color: white;
+}
+
+h1 {
+    font-family: 'Barlow';
+    font-style: italic;
+    font-weight: 600;
+    font-size: 72px;
+    line-height: 62px;
+    letter-spacing: 0.02em;
+    margin-top: 0px;
+    padding-top: 26px;
+    margin-left: 262px;
+    display: inline-block;
+}
+
+h3 {
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 55px;
+    letter-spacing: 0.03em;
+
+ }
+
+ p {
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 38px;
+    letter-spacing: 0.015em;
+ }
+
+ .whoweare {
+    display: inline-block;
+    width: 885px;
+    height: 320px;
+    margin-left: 64px;
+ }
+
+ img {
+    height: 315px;
+    width: 315px;
+    margin-left: 112px;
+    background-color: black;
+}
+
+.updates {
+    padding-left: 64px;
+}
+
+li {
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 38px;
+    letter-spacing: 0.015em;
+}
+
+.update-body {
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 23.5px;
+    line-height: 38px;
+    letter-spacing: 0.01em;
+}
+
+#logout {
+    text-decoration: none;
+    margin-left: 167px;
+}
+
+#logout:hover {
+    text-decoration: underline;
+}
+ 
